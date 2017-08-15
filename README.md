@@ -28,3 +28,7 @@ A aplicação que você deve desenvolver é uma modal de assinatura.
 - Utilização do Git
 - Performance
 - UX
+
+## Prazo ##
+
+![Image of Yaktocat](https://img.memecdn.com/seven-days-until-the-world-end_o_980714.jpg)

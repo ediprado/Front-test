@@ -1,0 +1,18 @@
+{
+    "Plans": [
+        {
+            "Name": "Destaque Ouro",
+            "value": {
+                "integer": 49,
+                "float": 90
+            }
+        },
+        {
+            "Name": "Destaque Prata",
+            "value": {
+                "integer": 29,
+                "float": 90
+            }
+        }
+    ]
+}
